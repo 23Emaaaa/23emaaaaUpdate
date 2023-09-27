@@ -1,4 +1,4 @@
 # 23emaaaaUpdate
 Trying to update the previous bio.
 
-# Hi, I'm Astrodevil <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm 23emaaaa <img src="C:\Users\23ema\DownloadsHi.gif" width="29px">
