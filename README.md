@@ -3,7 +3,9 @@
 🌱 I am currently learning **Python**, and also interested in **Web Development**.<br>
 🎯 My Goal is to learn the more I can about my passions: _tech, economics, philosophy and psychology_.<br>
 ✨ I love to read different types of **contents**.<br><td >
-
+---
+## Look Up:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23emaaaa&theme=dracula)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-dajko-5461251b3/)
