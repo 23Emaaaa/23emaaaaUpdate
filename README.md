@@ -2,7 +2,7 @@
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering** at [Unibo](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche/index.html) .<br>
 🌱 I am currently learning **Python**, and also interested in **Web Development**.<br>
 🎯 My Goal is to learn the more I can about my passions: _tech, economics, philosophy and psychology_.<br>
-✨ I love to read different types of **contents**.<br><td >
+✨ I like reading different types of **content**.<br><td >
 ---
 ## Look Up:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23emaaaa&theme=dracula)
